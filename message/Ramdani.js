@@ -118,12 +118,12 @@ Apabila Melewati Jam Aktif, Maka Akan Di Proses Di Hari Berikutnya
 [14.05, 20/12/2021] Ramdanis Store: 💰 PAYMENT  💰
 
 💳 DANA
-Nomor : 089512545999
-A / n : DISAH
+Nomor : 082323341102
+A / n : Jiplonk
 
 💳 GOPAY
-Nomor : 089512545999
-A / n : Ramdani store
+Nomor : 08
+A / n : Ramd
 
 💳 OVO (LIMIT) 
 Nomor : 
@@ -140,12 +140,12 @@ return `
 💰 PAYMENT  💰
 
 💳 DANA
-Nomor : 089512545999
-A / n : DISAH
+Nomor : 082323341102
+A / n : jiplonk
 
 💳 GOPAY
-Nomor : 089512545999
-A / n : Ramdani store
+Nomor : 08
+A / n : Ramd
 
 💳 OVO (LIMIT) 
 Nomor : 
